@@ -1,0 +1,56 @@
+h1{
+    color: blue;
+    color: aqua;
+}
+h2{
+    color: #c92585;
+}
+
+p{
+    color: #c92585;
+}
+a{
+    color: aquamarine;
+}
+ol{
+    color: blueviolet;
+}
+tr{
+    color: crimson;
+}
+h1*{
+    color: chocolate;
+}
+li{
+    list-style-type: square;
+}
+.espasali{
+    color: mediumseagreen;
+    font-weight: 200;
+    
+}
+.pakistan{
+    color: aqua;
+    font-style: unset;
+}
+li em{
+    color: rgb(20, 255, 130);
+    
+}
+h1.p{
+    font-size: medium;
+}
+a:hoverP{
+    color: violet;
+    text-decoration: burlywood;
+}
+body h1+p.espasali{
+    color: hotpink;
+    text-decoration: cyan;
+}
+#li{
+    color: blue;
+}
+li[class]{
+    color: #c92585;
+}
